@@ -1,6 +1,11 @@
 # i3-vim
 i3 and vim config files
 
+# My machine
+Debian 11 - bullseye
+Ryzen 3400G - Vega 11 Graphics
+with: xfce | i3
+
 # How to install i3-gaps
 
 ```
