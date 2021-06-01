@@ -11,4 +11,4 @@ meson -Ddocs=true -Dmans=true ../build
 meson compile -C ../build
 sudo meson install -C ../build
 ```
-Thanks to: mattisimyo [https://www.reddit.com/user/mattismyo/] in https://www.reddit.com/r/i3wm/comments/nctbvk/gaps_innergaps_outer_error_am_i_really_running/
+Thanks to: [mattisimyo](https://www.reddit.com/user/mattismyo/) in this [reddit post](https://www.reddit.com/r/i3wm/comments/nctbvk/gaps_innergaps_outer_error_am_i_really_running/)
