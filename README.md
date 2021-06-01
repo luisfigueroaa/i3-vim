@@ -6,7 +6,7 @@ Debian 11 - bullseye
 Ryzen 3400G - Vega 11 Graphics
 with: xfce | i3
 
-# How to install i3-gaps
+# How to install i3-gaps from source
 
 ```
 git clone https://www.github.com/Airblader/i3 i3-gaps
